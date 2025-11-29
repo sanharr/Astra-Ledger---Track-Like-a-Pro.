@@ -1,0 +1,7 @@
+{
+  "name": "Astra Ledger",
+  "description": "An AI-powered financial tracking assistant that parses natural language and receipts to track expenses.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
